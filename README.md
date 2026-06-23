@@ -1,12 +1,33 @@
-# finova_infosec
+# Linux Luminarium WriteUp: pwn.college
 
-# Proof of Completion
+## Overview
 
-## Name:
-Manya Kalkur
+Completed the entire Linux Luminarium learning path on pwn.college, covering fundamental Linux concepts ranging from basic command-line usage to advanced topics such as permissions, process management, shell scripting, PATH manipulation, and terminal multiplexing.
 
-## Registration Number:
-240968392
+## What I Learned
 
-## Screenshot of Terminal:
-![WhatsApp Image 2025-10-14 at 23 23 52_20d0eea8](https://github.com/user-attachments/assets/42932c25-c9ee-4a7a-bb53-da6d4bdee41d)
+Throughout this course, I gained practical experience with:
+
+* Linux command-line navigation and filesystem management
+* File operations, permissions, ownership, and access control
+* User and group management using `su` and `sudo`
+* Process and job control, including background and foreground tasks
+* Input/output redirection, piping, and stream manipulation
+* Shell variables and environment configuration
+* Bash scripting, command chaining, and automation
+* Text processing using common Linux utilities
+* PATH management and executable discovery
+* Terminal multiplexing with Screen and Tmux
+* Linux documentation, man pages, and troubleshooting techniques
+
+## Skills Developed
+
+* Linux System Administration
+* Bash Scripting
+* Shell Automation
+* Process Management
+* User & Permission Management
+* Command Line Productivity
+* System Troubleshooting
+* Text Processing & Data Manipulation
+
