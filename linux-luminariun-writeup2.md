@@ -137,13 +137,29 @@ rm -rf / --no-preserve-root
 
 ### Life After rm -rf /
 
-Flag: 
+Flag: pwn.college{s3eozDMfEPeq4vPlP_t3nTu-33P.01MzEzNxwSM2QjM1EzW}
 
 Solution: 
+/challenge/check
+
+rm -rf / --no-preserve-root
+
+read FLAG < /flag
+
+echo $FLAG
 
 
 ### Finding Meaning after rm -rf /
 
-Flag: 
+Flag: pwn.college{cbZk0rAT5wEIXNZBSkLMFvveMZX.0FNzEzNxwSM2QjM1EzW}
 
 Solution: 
+/challenge/check
+
+rm -rf / --no-preserve-root
+
+echo/*
+
+read FLAG < /e9247045
+
+echo $FLAG
